@@ -1,0 +1,20 @@
+VNC(R) Viewer 6.20.529 (r42646) ARMv6 (May 29 2020 13:32:28)
+Copyright (C) 2002-2020 RealVNC Ltd.
+RealVNC and VNC are trademarks of RealVNC Ltd and are protected by trademark
+registrations and/or pending trademark applications in the European Union,
+United States of America and other jurisdictions.
+Protected by UK patent 2481870; US patent 8760366; EU patent 2652951.
+See https://www.realvnc.com for information on VNC.
+For third party acknowledgements see:
+https://www.realvnc.com/docs/6/foss.html
+OS: Raspbian GNU/Linux 10, Linux 5.4.83, armv7l
+<14> 2022-11-24T16:55:07.216Z raspberrypi vncviewer[982]: AbComms: Listening on /tmp/.vnc-1000/vncviewer.AbComms
+<13> 2022-11-24T16:55:07.217Z raspberrypi vncviewer[982]: AbApp: started
+<14> 2022-11-24T16:55:07.217Z raspberrypi vncviewer[982]: AbModuleHosted: Getting CloudConfig.pkg from built-in resource
+<11> 2022-11-24T16:55:07.264Z raspberrypi vncviewer[982]: VendorConfig: Error in Certificate "CN=GeoTrust Global CA,O=GeoTrust Inc.,C=US": X.509 Error: Certificate expired
+<11> 2022-11-24T16:55:07.265Z raspberrypi vncviewer[982]: VendorConfig: Error in Certificate "CN=GlobalSign,O=GlobalSign,OU=GlobalSign Root CA - R2": X.509 Error: Certificate expired
+<14> 2022-11-24T16:55:07.266Z raspberrypi vncviewer[982]: AbModuleHosted: Using business identifier 588da0cb-a6ca-4549-8931-ce4d0ad4567a
+<14> 2022-11-24T16:55:07.272Z raspberrypi vncviewer[982]: GoogleAnalytics: X.509 Error: Certificate expired
+<14> 2022-11-24T16:56:03.280Z raspberrypi vncviewer[982]: SignInMgr: Starting sign-in for 'harvey.rutland@wase.co.uk'...
+<14> 2022-11-24T16:56:04.317Z raspberrypi vncviewer[982]: SignInMgr: Sign-in failed: Hosted Application error: Password incorrect
+<13> 2022-11-24T16:56:06.744Z raspberrypi vncviewer[982]: AbApp: stopped

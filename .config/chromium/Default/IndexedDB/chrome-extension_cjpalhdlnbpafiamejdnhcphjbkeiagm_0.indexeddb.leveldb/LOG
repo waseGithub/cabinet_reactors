@@ -1,0 +1,8 @@
+2022/11/24-17:00:13.884 402 Reusing MANIFEST /home/pi/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/24-17:00:13.885 402 Recovering log #97
+2022/11/24-17:00:13.886 402 Reusing old log /home/pi/.config/chromium/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/000097.log 
+2022/11/24-17:00:15.909 401 Level-0 table #101: started
+2022/11/24-17:00:15.909 401 Level-0 table #101: 0 bytes OK
+2022/11/24-17:00:15.921 401 Delete type=0 #97
+2022/11/24-17:00:15.921 401 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/11/24-17:00:15.921 401 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

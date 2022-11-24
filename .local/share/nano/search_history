@@ -1,0 +1,14 @@
+self.serial
+self.serial.write
+read
+read.register
+read_registers
+_comm
+sleep
+flsuh
+flush
+wnTx
+enTx
+
+
+

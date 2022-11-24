@@ -1,0 +1,8 @@
+[Added Associations]
+text/x-log=mousepad.desktop;Thonny.desktop;lxterminal.desktop;
+text/csv=mousepad.desktop;libreoffice-calc.desktop;
+application/x-python-bytecode=mousepad.desktop;
+
+[Default Applications]
+text/x-log=mousepad.desktop
+text/csv=mousepad.desktop

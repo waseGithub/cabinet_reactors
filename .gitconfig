@@ -1,0 +1,5 @@
+[user]
+	name = waseGithub
+	email = harvey.rutland@wase.co.uk
+[credential]
+	helper = cache --timeout 7200

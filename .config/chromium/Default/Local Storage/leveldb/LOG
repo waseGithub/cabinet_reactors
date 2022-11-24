@@ -1,0 +1,5 @@
+2022/11/24-17:00:10.222 3 Reusing MANIFEST /home/pi/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2022/11/24-17:00:10.227 3 Recovering log #23
+2022/11/24-17:00:10.233 3 Level-0 table #26: started
+2022/11/24-17:00:10.274 3 Level-0 table #26: 34142 bytes OK
+2022/11/24-17:00:10.298 3 Delete type=0 #23
